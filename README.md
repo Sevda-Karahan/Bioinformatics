@@ -31,3 +31,7 @@ kaydettik.
 Kodlama ortamı olarak “Google Colab” kullanılmıştır
 
 Ön işleme adımından elde edilen "GSE19188.csv" veri seti dosyası üzerinde SVM, KNN, Random Forest modelleri eğitilmiştir.
+
+Contributors
+--
+Sümeyye GÜLDEMİR
