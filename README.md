@@ -1,4 +1,7 @@
+1. Kullanılan Veri Seti
+
 GSE19188
+
 (https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE19188)
 
 Bu proje, Homo sapiens organizmasında erken evre küçük hücreli olmayan akciğer
@@ -17,13 +20,13 @@ Bu veri seti, NSCLC'nin erken evresinde gen ekspresyon profillerini analiz edere
 ve histolojik imzaları tanımlamak amacıyla kullanılmıştır. Çalışma, farklı gen setlerinin
 hastalığın teşhisi üzerindeki etkilerini belirlemeyi amaçlamaktadır.
 
-1.Veri Setinin Hazırlanması ve R ile Ön İşleme
+2. Veri Setinin Hazırlanması ve R ile Ön İşleme
 
 "GSE19188" veri setinin indirilmesi, işlenmesi, normalizasyonu gibi işlemleri “R” dilinde
 gerçekleştirip hazırladığımız veri setini daha sonra kullanılmak üzere CSV formatında
 kaydettik. 
 
-2. Python ile Model Eğitimi
+3. Python ile Model Eğitimi
 
 Kodlama ortamı olarak “Google Colab” kullanılmıştır
 
