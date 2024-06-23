@@ -15,7 +15,7 @@ Deney Tipi: Expression profiling by array
 Örnekler:
 - 91 tümör örneği
 - 65 bitişik normal akciğer doku örneği
-- 
+ 
 Bu veri seti, NSCLC'nin erken evresinde gen ekspresyon profillerini analiz ederek, tümör
 ve histolojik imzaları tanımlamak amacıyla kullanılmıştır. Çalışma, farklı gen setlerinin
 hastalığın teşhisi üzerindeki etkilerini belirlemeyi amaçlamaktadır.
